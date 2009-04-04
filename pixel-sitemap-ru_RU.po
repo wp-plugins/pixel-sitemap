@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pixel Sitemap\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-03 11:43+0200\n"
+"PO-Revision-Date: 2009-04-03 11:43+0200\n"
+"Last-Translator: Seobucks <seobucksteam@gmail.com>\n"
+"Language-Team: Seobucks <seobucksteam@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+": \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: pixel-sitemap.php:156
+msgid "Title text (optional)"
+msgstr "Заголовок (опционально)"
+
+#: pixel-sitemap.php:159
+msgid "Count posts in map"
+msgstr "Кол-во постов в карте"
+
+#: pixel-sitemap.php:161
+msgid "Show all posts if 0"
+msgstr "Если 0, будут показаны все посты"
+
+#: pixel-sitemap.php:164
+msgid "Sorting"
+msgstr "Сортировка"
+
+#: pixel-sitemap.php:166
+msgid "Random"
+msgstr "Случайно"
+
+#: pixel-sitemap.php:167
+msgid "First old posts"
+msgstr "Сначала старые записи"
+
+#: pixel-sitemap.php:168
+msgid "First new posts"
+msgstr "Сначала новые записи"
+

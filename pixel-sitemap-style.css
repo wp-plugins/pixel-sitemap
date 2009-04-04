@@ -1,0 +1,17 @@
+/*
+Plugin Name: Pixel Sitemap
+Version: 1.0
+Plugin URI: http://seobucks.ru/pixel-sitemap-plugin/
+*/
+
+.pixel-sitemap{width:83px;margin:0 auto;}
+.pixel-sitemap a,.pixel-sitemap a:hover,.pixel-sitemap a:link,.pixel-sitemap a:visited{text-decoration:none;background:none;}
+a.pixel-sitemap-link, img.pixel-sitemap-px{margin:0;padding:0;}
+a.pixel-sitemap-link {width:3px;height:3px;float:left;}
+img.pixel-sitemap-px{width:1px;height:1px;border:1px solid black;}
+
+
+
+.pixel-sitemap
+a.pixel-sitemap-link
+img.pixel-sitemap-px
