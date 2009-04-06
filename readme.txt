@@ -1,4 +1,4 @@
-=== Paxel Sitemap ===
+=== Pixel Sitemap ===
 Contributors: seobucks
 Tags: seo, sitemap, widget
 Requires at least: 2.3
@@ -9,7 +9,7 @@ Adds a sidebar widget to easy customize and compact display links to all your po
 
 == Description ==
 
-Pixmap Sitemap Plugin allows with the use of widget to display in sidebar links on the posts in compact way, namely as a rows of 1 pixel pictures.
+Pixel Sitemap Plugin allows with the use of widget to display in sidebar links on the posts in compact way, namely as a rows of 1 pixel pictures.
 
 The main features are:
 
@@ -38,8 +38,8 @@ Edit the `pixel-sitemap-style.css` file in plugin directory:
 
 == Screenshots ==
 
-1. The appearance of a plugin
-2. Configure widget
+1. Configure widget
+2. The appearance of a plugin
 
 == Help / Support ==
 
